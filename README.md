@@ -25,6 +25,11 @@
 목표 : 싱글톤이 왜 Thread-Safe 하지 않은지 실습으로 알아보기</br>
 [_Github URL [Singleton_Java]_](https://github.com/Qussong/study_Singleton_Java)
 
+### 📌Tomcat 실행
+
+목표 : Embedded Tomcat 를 활용하여 서버를 띄워보자</br>
+[_Github URL [tomcat_Java]_](https://github.com/Qussong/project_tomcat_Java)
+
 ### 📌게시판 서비스 (ing)
 
 목표 : SpringBoot<br>
